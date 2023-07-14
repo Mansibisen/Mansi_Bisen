@@ -92,7 +92,7 @@ body {
   animation: profileMarginTop 1s;
 }
 
-#container .profile {
+#container .profile{
   border-radius: 50%;
   height: 175px;
   width: 175px;
@@ -184,4 +184,9 @@ body {
 #container footer a:hover {
   color: var(--primary-hover);
   text-decoration: underline;
+}
+
+
+.profile-contact{
+  background-color: #04d361;
 }
